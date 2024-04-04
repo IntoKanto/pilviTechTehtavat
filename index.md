@@ -1,5 +1,5 @@
 ## Tervetuloa GitHub Pages-sivustolleni!
-![image](/docs/assets/jekyll.jpg)
+![image](/assets/jekyll.jpg)
 ### Tältä löytyvät tehtäväpalautukset:
 * [viikko 1](tehtavat/vko1.html)
 * [viikko 2](tehtavat/vko2.md)
