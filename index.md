@@ -1,5 +1,4 @@
 ## Tervetuloa GitHub Pages-sivustolleni!
-![image](/pilviTechTehtavat/tehtavat/assets/jekyll.jpg)
 ### Tältä löytyvät tehtäväpalautukset:
 * [viikko 1](tehtavat/vko1.html)
 * [viikko 2](tehtavat/vko2.md)
