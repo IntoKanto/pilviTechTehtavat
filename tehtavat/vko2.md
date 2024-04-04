@@ -1,1 +1,1 @@
-![image](/pilviTechTehtavat/tehtavat/assets/jekyll.jpg){: width="100"}
+![image](/pilviTechTehtavat/tehtavat/assets/jekyll.jpg){: width="250"}
