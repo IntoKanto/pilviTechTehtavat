@@ -1,8 +1,8 @@
-![image](/pilviTechTehtavat/tehtavat/assets/jekyll.jpg){: width="250"} ![image](/pilviTechTehtavat/tehtavat/assets/cIcD.jpg){: width="250"}
+![image](/pilviTechTehtavat/tehtavat/assets/cIcD.jpg){: width="250"}
 
-## Jekyll
-GitHub Actions on jatkuvan kehityksen ja jatkuvan toimittamisen työkalu. Sen avullaa voidaan laatia automatisoituja prosesseja kuten testausta ja julkaisemista tiedoston päivittämisen yhteydessä. Esim. kun tiedostoon viedään muutoksia alkaa alkaa prosessien sarja, päivitetty tiedosto testataan, rakennetaan uusi versio jonka Actions lopulta julkaisee. 
+## GitHub Actions
+GitHub Actions on työkalu jonka avullaa voidaan laatia automatisoituja prosesseja kuten testausta ja julkaisemista tiedoston päivittämisen yhteydessä. Esim. kun repositorioon viedään muutoksia alkaa prosessien sarja, päivitetty tiedosto testataan, rakennetaan uusi versio jonka lopulta julkaistaan. 
 
 
-## CI/CD
-
+## CI/CD pipline
+CI/CD putki on sarja ohjelmistokehityksen automaattisia askelia ohjelmiston rakentamisesta sen julkaisemiseen saakka.  
