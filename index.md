@@ -4,7 +4,7 @@
 
 * [viikko 2](tehtavat/vko2.md)
 
-* viikko 3
+* [viikko 3](tehtavat/vko3/dist/index.html)
 
 * viikko 4
 
