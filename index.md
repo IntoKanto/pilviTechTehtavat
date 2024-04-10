@@ -1,4 +1,4 @@
-## Tervetuloa GitHub Pages-sivustolleni!
+## Tervetuloa sivustolleni!
 ### Tältä löytyvät tehtäväpalautukset:
 * [viikko 1](tehtavat/vko1.html)
 * [viikko 2](tehtavat/vko2.md)
