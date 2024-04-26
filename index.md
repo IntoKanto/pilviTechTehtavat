@@ -6,7 +6,7 @@
 
 * [viikko 3](tehtavat/vko3/index.html)
 
-* viikko 4
+* [viikko 4](tehtavat/vko4/index.html)
 
 * viikko 5
 
