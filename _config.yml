@@ -8,5 +8,5 @@ plugins:
 
 matomo:
   enabled: true
-  url: 'https://pilvipalvelut-matomo.rahtiapp.fi/js/container_1yEYcJ3Y_dev_9a0299c34af640421ad792f5.js'
+  url: 'https://pilvipalvelut-matomo.rahtiapp.fi/'
   siteId: 13
