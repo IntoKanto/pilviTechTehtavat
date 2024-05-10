@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Tervetuloa sivustolleni!
 ### Tältä löytyvät tehtäväpalautukset:
 * [viikko 1](tehtavat/vko1.html)
